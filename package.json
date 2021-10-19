@@ -1,5 +1,5 @@
 {
-  "name": "shadow-box",
+  "name": "shadow_element",
   "version": "1.0.0",
   "description": "Adds shadow and padding to elements",
   "main": "index.js",

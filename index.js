@@ -1,4 +1,4 @@
-function shadow_box(options){
+function shadow_ele(options){
     let element=document.getElementsByClassName('.shadow-box');
     if(options.shadow_type==='hard'){
         options.shadow_type='0px';
@@ -10,4 +10,4 @@ function shadow_box(options){
         if(options.padding)element.style.padding='1em';
     });
 }
-module.exports.shadow_box=shadow_box;
+module.exports.shadow_ele=shadow_ele;
